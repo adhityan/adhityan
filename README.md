@@ -3,7 +3,7 @@
 ### I'm an Enterprenur, Developer, and Teacher!
 - 🌱 I’m currently learning everything :)
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 🔭 I’m building and hiring for an unique fintech product at [Gamechange][website]
+- 🔭 I’m building and hiring for an unique fintech product at [Gamechange][GC]
 
 ### Connect with me:
 
@@ -21,3 +21,4 @@
 [instagram]: https://instagram.com/ilivenrock
 [linkedin]: https://linkedin.com/in/adhityan
 [twitter]: https://twitter.com/kvadhityan
+[GC]: http://gamechange.com
