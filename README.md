@@ -1,6 +1,6 @@
 ## Hi there, I'm Adhityan 👋
 
-### I'm an Enterprenur, Developer, and Teacher!
+### I'm an Entrepreneur, Developer, and Teacher!
 - 🌱 I’m currently learning everything :)
 - 🥅 2021 Goals: Figure out my next move, onwards and upwards!
 - 🔭 I’m building and hiring for an unique fintech product at [Gamechange][GC]
