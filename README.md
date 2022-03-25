@@ -3,7 +3,7 @@
 ### I'm an Entrepreneur, Developer, and Teacher!
 - 🌱 I’m currently learning everything :)
 - 🥅 2021 Goals: Figure out my next move, onwards and upwards!
-- 🔭 I’m building and hiring for an unique fintech product at [Gamechange][GC]
+- 🔭 I’m currently on a break; travelling and exploring
 
 ### Connect with me:
 
