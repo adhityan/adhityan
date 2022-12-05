@@ -2,8 +2,8 @@
 
 ### I'm an Entrepreneur, Developer, and Teacher!
 - 🌱 I’m currently learning everything :)
-- 🥅 2021 Goals: Figure out my next move, onwards and upwards!
-- 🔭 I’m currently on a break; travelling and exploring
+- 🥅 2022: Just moved to Paris!
+- 🔭 travelling and exploring
 
 ### Connect with me:
 
