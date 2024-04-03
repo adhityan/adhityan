@@ -1,9 +1,9 @@
 ## Hi there, I'm Adhityan 👋
 
 ### I'm an Entrepreneur, Developer, and Teacher!
-- 🌱 I’m currently learning everything :)
-- 🥅 2022: Just moved to Paris!
-- 🔭 travelling and exploring
+- 🌱 I’m currently worrking in GenAI :)
+- 🥅 2024: Focus on travel and fun!!
+- 🔭 Newly into Fitness, help me!
 
 ### Connect with me:
 
@@ -21,4 +21,3 @@
 [instagram]: https://instagram.com/ilivenrock
 [linkedin]: https://linkedin.com/in/adhityan
 [twitter]: https://twitter.com/kvadhityan
-[GC]: http://gamechange.com
