@@ -1,9 +1,9 @@
 ## Hi there, I'm Adhityan 👋
 
-### I'm an Entrepreneur, Developer, and Teacher!
-- 🌱 I’m currently worrking in GenAI :)
-- 🥅 2024: Focus on travel and fun!!
-- 🔭 Newly into Fitness, help me!
+### I am a tech leader
+- 🌱 Currently working on AI/ML and GenAI :)
+- 🥅 2024: Focus on travel and health...
+- ⛷️ Newly into skiing!!
 
 ### Connect with me:
 
