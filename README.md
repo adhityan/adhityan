@@ -2,8 +2,8 @@
 
 ### I am a tech leader
 - 🌱 Currently working on AI/ML and GenAI :)
-- 🥅 2024: Focus on travel and health...
-- ⛷️ Newly into skiing!!
+- 🥅 2025: build baby build...
+- ⛷️ More skiing!!
 
 ### Connect with me:
 
